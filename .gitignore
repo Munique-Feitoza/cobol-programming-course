@@ -1,4 +1,6 @@
-.DS_Store
-*~
-*.pdf
-.idea
+cobol-check/ALLTESTS
+cobol-check/CC##99
+cobol-check/CC##99.CBL
+cobol-check/ParserErrorLog.txt
+cobol-check/output/
+.scratch/
